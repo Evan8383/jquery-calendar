@@ -49,7 +49,7 @@ This code is provided under the MIT License. You are free to use, modify, and di
 
 ## Author
 
-* [Your Name]
+* Evan Bennett
 
 Feel free to add your name or contact information to the "Author" section.
 
