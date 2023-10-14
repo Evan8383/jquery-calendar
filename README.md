@@ -4,7 +4,7 @@ The Work Day Scheduler is a simple web application that allows you to schedule y
 
 ## Links
 Repo: https://github.com/Evan8383/workday-task-scheduler
-Live Page: https://evan8383.github.io/jquery-calendar/
+Live Page: https://evan8383.github.io/workday-task-scheduler/
 
 ## Features
 
