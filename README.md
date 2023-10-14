@@ -2,6 +2,10 @@
 
 The Work Day Scheduler is a simple web application that allows you to schedule your work day tasks. It provides a visual representation of your day, with the ability to add, edit, and save tasks for each hour.
 
+## Links
+Repo: https://github.com/Evan8383/jquery-calendar
+Live Page: https://evan8383.github.io/jquery-calendar/
+
 ## Features
 
 1. **Time Blocks:** The app displays time blocks for each hour of the workday (from 9 AM to 5 PM).

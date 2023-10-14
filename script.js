@@ -35,7 +35,7 @@ timeBlockArr.forEach((hour, i) => {
 $(function () {
   $('button').on('click', function () {
     const scheduledTask = $(this).parent().find('textarea').val()
-    // console.log($(this).parent().attr('id'))
+      alert("Task Saved"); 
     localStorage.setItem($(this).parent().attr('id'), scheduledTask)
   })
 
