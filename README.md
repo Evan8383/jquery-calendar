@@ -16,6 +16,8 @@ The Work Day Scheduler is a simple web application that allows you to schedule y
    - Green: Future hours.
 
 5. **Dynamic Date and Time:** The app dynamically displays the current date and time at the top of the page.
+## Screenshots
+<img src="./assets/127.0.0.1_5500_index.html.png" alt="screenshot" width="500"/>
 
 ## Usage
 
